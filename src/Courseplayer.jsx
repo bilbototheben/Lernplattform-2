@@ -363,7 +363,7 @@ const styles = {
     marginBottom: '10px',
   },
   progressBar: {
-    width: '50px',
+    width: '25px',
     height: '100%',
     backgroundColor: '#f0f0f0',
     borderRadius: '10px',
